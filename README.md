@@ -1,1 +1,1 @@
-# Golang-P2P-Blockchain
+# Creating a p2p blockchain with Golang
